@@ -23,5 +23,6 @@
   border: 1px solid #ddd;
 }
 
-
-body {}
+body {
+  @apply bg-slate-400;
+}

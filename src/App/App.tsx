@@ -1,3 +1,3 @@
 export function App() {
-  return <div className={'bg-gray-400 min-h-screen flex'}>App</div>;
+  return <div className={'max-w-[1280px] bg-white min-h-screen mx-auto p-4'}>App</div>;
 }
